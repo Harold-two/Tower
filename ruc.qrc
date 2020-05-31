@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/76.jpg</file>
+        <file>image/aolisha.jpg</file>
+        <file>image/assassin.jpg</file>
+        <file>image/basketball.jpg</file>
+        <file>image/communist.jpg</file>
+        <file>image/harden.jpg</file>
+        <file>image/map1.png</file>
+        <file>image/Reaper.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>image/map2.png</file>
+        <file>image/map3.png</file>
+    </qresource>
+</RCC>
